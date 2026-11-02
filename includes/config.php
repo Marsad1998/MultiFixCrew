@@ -70,24 +70,6 @@ $services = [
         'icon' => 'paint',
         'number' => '05',
     ],
-    'cleaning' => [
-        'name' => 'Cleaning',
-        'eyebrow' => 'Fresh from corner to corner',
-        'short' => 'Detailed home, office and post-work cleaning tailored to the condition of your space.',
-        'intro' => 'Choose a focused clean or a more detailed reset. We plan the work around the rooms, surfaces and finish you need.',
-        'features' => ['Home and office cleaning', 'Deep cleaning', 'Move-in and move-out cleaning', 'Post-maintenance clean-up'],
-        'icon' => 'sparkles',
-        'number' => '06',
-    ],
-    'moving' => [
-        'name' => 'Moving',
-        'eyebrow' => 'Move with less stress',
-        'short' => 'Careful support for packing, lifting, transport coordination and settling into your new space.',
-        'intro' => 'We help make moving day simpler with an organised approach to handling, loading and placing your belongings.',
-        'features' => ['Home and office moves', 'Packing support', 'Furniture handling', 'Loading and placement'],
-        'icon' => 'truck',
-        'number' => '07',
-    ],
     'gypsum-works' => [
         'name' => 'Gypsum Works',
         'eyebrow' => 'Shape your space',
@@ -95,7 +77,7 @@ $services = [
         'intro' => 'From practical partitions to clean ceiling details, we deliver gypsum work designed to sit naturally within your interior.',
         'features' => ['Partition walls', 'Ceiling features', 'Gypsum repair', 'Jointing and finishing'],
         'icon' => 'layers',
-        'number' => '08',
+        'number' => '06',
     ],
 ];
 
@@ -118,7 +100,7 @@ $faqs = [
     ],
     [
         'question' => 'How should I prepare for a visit?',
-        'answer' => 'Please make the work area accessible and let us know about parking, building access or time restrictions. For moving work, a brief item list helps us plan accurately.',
+        'answer' => 'Please make the work area accessible and let us know about parking, building access or time restrictions. Photos and a brief description of the issue help us plan accurately.',
     ],
     [
         'question' => 'How do I book?',

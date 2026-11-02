@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 require_once __DIR__ . '/includes/helpers.php';
 $pageTitle = 'Multi Fix Crew | Complete Home & Property Maintenance';
-$pageDescription = 'One trusted crew for AC, plumbing, carpentry, electrical, painting, cleaning, moving and gypsum works.';
+$pageDescription = 'One trusted crew for AC, plumbing, carpentry, electrical, painting and gypsum works.';
 $bodyClass = 'home-page';
 require __DIR__ . '/includes/header.php';
 ?>
@@ -31,7 +31,7 @@ require __DIR__ . '/includes/header.php';
             </div>
             <div class="hero-note">
                 <span class="note-icon"><?= icon('home') ?></span>
-                <p><small>Your to-do list, handled</small><strong>One crew. Eight services.</strong></p>
+                <p><small>Your to-do list, handled</small><strong>One crew. Six services.</strong></p>
             </div>
         </div>
     </div>
